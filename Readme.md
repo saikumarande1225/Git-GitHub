@@ -2,8 +2,6 @@
 
 # Git & GitHub
 
-# Documentation Summary
-
 ## Table of Contents
 
 - [Git](#git)
