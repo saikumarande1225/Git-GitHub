@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Demo](#Demo)
 - [Git](#git)
 - [Advantages of Git](#advantages-of-git)
 - [GitHub](#github)
@@ -22,6 +23,8 @@
   - [Git Managing History](#git-managing-history)
 
 ---
+
+# Demo
 
 ## Git
 Git is a free, open-source, distributed version control system that manages everything related to version control on your local machine.
