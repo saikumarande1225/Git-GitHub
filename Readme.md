@@ -1,3 +1,5 @@
+![Git Logo](https://example.com/path-to-your-git-image.png)
+
 # Git & GitHub
 
 ## Git
