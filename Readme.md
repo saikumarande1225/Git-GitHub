@@ -1,5 +1,5 @@
 ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-
+![Staging Environment](https://www.google.com/url?sa=i&url=https%3A%2F%2Fteaching.dahahm.de%2Fteaching%2Fss22%2Fdissys%2F2022%2F05%2F31%2Fgit_workflow.html&psig=AOvVaw1GN6y6k3QHRXnCW5u2qtJ-&ust=1729477386635000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMju_bLzm4kDFQAAAAAdAAAAABAY)
 # Git & GitHub
 
 ## Table of Contents
