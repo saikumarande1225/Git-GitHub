@@ -1,5 +1,5 @@
 ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Staging Environment](https://teaching.dahahm.de/assets/git-workflow1.webp)
+
 # Git & GitHub
 
 ## Table of Contents
@@ -47,6 +47,23 @@ Version control (or source control) is a system that tracks and manages changes 
 - **Seamless Collaboration**: Team members can work simultaneously without overwriting each other’s changes.
 - **Safe Experimentation**: Create branches to test new ideas without impacting the main codebase.
 - **Offline Work**: Git allows you to work offline and sync changes once you're connected again.
+
+  ![Staging Environment](https://teaching.dahahm.de/assets/git-workflow1.webp)
+
+## 1. Workspace
+The **workspace** is the directory on your local machine where you work on your project files. This is where you create, edit, and delete files before you decide to track changes with Git. Changes made in the workspace are not tracked by Git until you explicitly stage them.
+
+### Key Points:
+- It contains all your project files.
+- You can make changes without affecting the version history until you stage them.
+- The workspace is where you can test and run your code.
+
+### Example Commands:
+- To check the status of files in your workspace:
+  ```bash
+  git status
+  This command shows which files are modified, untracked, or staged for the next commit.
+
 
 
 # Initializing a Repository
