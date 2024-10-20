@@ -3,6 +3,7 @@
 ## Git
 Git is a free and open-source distributed version control system. It is responsible for everything GitHub-related that happens locally on your computer.
 ## Why use Git?
+
 Here are some of the reasons why you might want to use Git:
 
 - **Track changes to your code**: Keep a history of changes and see who modified what.
@@ -19,7 +20,7 @@ GitHub is a widely-used, free-to-use cloud storage platform with version control
 
 ---
 
-# Version Control
+## Version Control
 
 Version control, also known as source control, is a system that helps us manage changes to files over time. It keeps a detailed history of all modifications, so we can track what has changed, when, and by whom. This is especially useful for collaborative projects, where multiple people may be working on the same code or documents simultaneously.
 
