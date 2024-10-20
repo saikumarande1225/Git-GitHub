@@ -2,8 +2,7 @@
 
 ## Git
 Git is a free and open-source distributed version control system. It is responsible for everything GitHub-related that happens locally on your computer.
-
-Here is the complete [Git installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+- Here is the complete [Git installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 ## GitHub
 GitHub is a widely-used, free-to-use cloud storage platform with version control and many other essential features. It specifically helps developers manage and deploy their projects on GitHub.
