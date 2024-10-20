@@ -1,4 +1,4 @@
-![Git Logo](https://git-scm.com/images/logos/git-logo.svg)
+![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 # Git & GitHub
 
