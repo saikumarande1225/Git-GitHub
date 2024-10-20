@@ -48,6 +48,8 @@ Version control (or source control) is a system that tracks and manages changes 
 - **Safe Experimentation**: Create branches to test new ideas without impacting the main codebase.
 - **Offline Work**: Git allows you to work offline and sync changes once you're connected again.
 
+---
+
 ## Essential Git Concepts: Workspace, Staging Area, Local, and Remote Repository
   ![Staging Environment](https://teaching.dahahm.de/assets/git-workflow1.webp)
 
@@ -83,11 +85,11 @@ The **remote repository** is a version of your project that is hosted on a serve
 - Changes must be pushed to the remote repository to be shared with others.
 - You can pull updates from the remote repository to stay synchronized with your team.
 
+---
 
+# Git Commands
 
-
-
-# Initializing a Repository
+## Initializing a Repository
 
 Here are the Git commands for initializing a repository:
 
@@ -100,7 +102,7 @@ Here are the Git commands for initializing a repository:
 
 ---
 
-# Basic Git Commands
+## Basic Git Commands
 
 Here are some basic Git commands:
 
@@ -127,7 +129,7 @@ Here are some basic Git commands:
 
 ---
 
-# Branching and Merging
+## Branching and Merging
 
 Here are some Git branching and merging commands:
 
@@ -157,7 +159,7 @@ Here are some Git branching and merging commands:
 
 ---
 
-# Remote Repositories
+## Remote Repositories
 
 Here are some Git remote repository commands:
 
@@ -178,7 +180,7 @@ Here are some Git remote repository commands:
 
 ---
 
-# Git Comparison
+## Git Comparison
 
 Here are some Git comparison commands:
 
@@ -189,7 +191,7 @@ Here are some Git comparison commands:
 
 ---
 
-# Git Managing History
+## Git Managing History
 
 Here are some Git managing history commands:
 
