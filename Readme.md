@@ -1,1 +1,2 @@
-# This is the first demo commit 
+# Git & GitHub
+**Git definition: **
