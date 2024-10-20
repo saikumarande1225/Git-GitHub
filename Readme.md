@@ -1,4 +1,4 @@
-![Git Logo]([https://example.com/path-to-your-git-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Finitialcommit.com%2Fblog%2FLearn-Git-Code-Definitive-Guide&psig=AOvVaw3wChXcCuZVIS12qN1gnrS8&ust=1729476875515000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDv477xm4kDFQAAAAAdAAAAABAE))
+![Git Logo](https://git-scm.com/images/logos/git-logo.svg)
 
 # Git & GitHub
 
