@@ -23,8 +23,6 @@
 
 ---
 
-# Demo
-
 ## Git
 Git is a free, open-source, distributed version control system that manages everything related to version control on your local machine.
 
