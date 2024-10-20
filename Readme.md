@@ -58,11 +58,14 @@ The **workspace** is the directory on your local machine where you work on your 
 - You can make changes without affecting the version history until you stage them.
 - The workspace is where you can test and run your code.
 
-### Example Commands:
-- To check the status of files in your workspace:
-  ```bash
-  git status
-  This command shows which files are modified, untracked, or staged for the next commit.
+## 2. Staging Area
+The **staging area** (also known as the index) is an intermediate space where changes are held before they are committed to the local repository. When you modify files in your workspace, you need to add those changes to the staging area. This step allows you to review which changes you want to include in your next commit.
+
+### Key Points:
+- It acts as a preparation area for your commits.
+- Only the changes that you add to the staging area will be included in the next commit.
+- You can selectively choose which changes to include.
+
 
 
 
