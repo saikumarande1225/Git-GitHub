@@ -2,6 +2,23 @@
 
 # Git & GitHub
 
+# Documentation Summary
+
+## Table of Contents
+
+- [Git](#git)
+- [Why Use Git?](#why-use-git)
+- [GitHub](#github)
+- [Version Control](#version-control)
+- [Initializing a Repository](#initializing-a-repository)
+- [Basic Git Commands](#basic-git-commands)
+- [Branching and Merging](#branching-and-merging)
+- [Remote Repositories](#remote-repositories)
+- [Git Comparison](#git-comparison)
+- [Git Managing History](#git-managing-history)
+
+---
+
 ## Git
 Git is a free, open-source, distributed version control system that manages everything related to version control on your local machine.
 
