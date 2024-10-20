@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-- [Demo](#Demo)
 - [Git](#git)
 - [Advantages of Git](#advantages-of-git)
 - [GitHub](#github)
