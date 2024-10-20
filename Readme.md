@@ -5,15 +5,21 @@
 ## Table of Contents
 
 - [Git](#git)
-- [Why Use Git?](#why-use-git)
+- [Advantages of Git](#advantages-of-git)
 - [GitHub](#github)
 - [Version Control](#version-control)
-- [Initializing a Repository](#initializing-a-repository)
-- [Basic Git Commands](#basic-git-commands)
-- [Branching and Merging](#branching-and-merging)
-- [Remote Repositories](#remote-repositories)
-- [Git Comparison](#git-comparison)
-- [Git Managing History](#git-managing-history)
+- [Essential Git Concepts: Workspace, Staging Area, Local, and Remote Repository](#essential-git-concepts-workspace-staging-area-local-and-remote-repository)
+  - [1. Workspace](#1-workspace)
+  - [2. Staging Area](#2-staging-area)
+  - [3. Local Repository](#3-local-repository)
+  - [4. Remote Repository](#4-remote-repository)
+- [Git Commands](#git-commands)
+  - [Initializing a Repository](#initializing-a-repository)
+  - [Basic Git Commands](#basic-git-commands)
+  - [Branching and Merging](#branching-and-merging)
+  - [Remote Repositories](#remote-repositories)
+  - [Git Comparison](#git-comparison)
+  - [Git Managing History](#git-managing-history)
 
 ---
 
